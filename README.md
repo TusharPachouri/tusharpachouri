@@ -10,4 +10,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-pachouri/) | [Gmail](mailto:tusharpachouri001@gmail.com)
 
 ⭐️ From [TusharPachouri](https://github.com/TusharPachouri)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+
