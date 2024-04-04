@@ -11,9 +11,11 @@ I'm a passionate coder dedicated to problem-solving, automation, and software de
 - 🔭 Currently engaged in backend web development utilizing NodeJS, ExpressJS, and MongoDB.
 - 📚 Continuously enhancing my skills in software development.
 - 👯 Actively seeking opportunities for software development internships.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-pachouri/) | [Gmail](mailto:tusharpachouri001@gmail.com)
-
-⭐️ From [TusharPachouri](https://github.com/TusharPachouri)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/tushar-pachouri/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a> | <a href="mailto:tusharpachouri001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
