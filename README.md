@@ -5,6 +5,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharPachouri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+###
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/ankit-orion"><img src="https://github.com/ankit-orion.png" alt="@ankit-orion" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/ankit-orion"><b>ankit-orion</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/tusharpachouri"> <img src="https://komarev.com/ghpvc/?username=tusharpachouri&style=for-the-badge&color=brightgreen"></a>
+      </td>
+    </tr>
+  </table>
+
 
 I'm a passionate coder dedicated to problem-solving, automation, and software development.
 
